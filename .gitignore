@@ -1,0 +1,52 @@
+# ASP.NET Core
+bin/
+obj/
+*.sln.docstates
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+.vscode/
+*.db
+*.db-journal
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+[Bb]uild/
+[Ll]ogs/
+[Ll]og/
+*.pdb
+*.exe
+*.dll
+*.xml
+*.json
+*.zip
+*.nupkg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.tmp
+
+# Entity Framework
+*.db
+*.db-journal
+
+# IDE files
+.idea/
+*.user
+*.sln.ide
+*.sln.vs
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Ignore global solution and project settings
+**/*.userosscache
+**/*.sln.docstates
